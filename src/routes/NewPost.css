@@ -1,0 +1,36 @@
+.new-post{
+    background-color: #69696925;
+    padding: 10rem 2rem;
+    border-radius: .25rem;
+}
+
+.new-post h2{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+
+
+form {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.form-control{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+
+.form-control label{
+    margin-bottom: 0.5rem;
+}
+
+.form-control input,
+.form-control textarea{
+    padding: .5rem;
+    border-radius: .25rem;
+    border: none;
+
+}
